@@ -1,5 +1,5 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
-# DEVELOP branch - upstream modification
+# DEVELOP branch
 
 # compiled output
 /dist
