@@ -1,3 +1,4 @@
 [submodule "my-lib"]
 	path = my-lib
 	url = https://github.com/alexia-sibner/my-lib.git
+	branch = develop
